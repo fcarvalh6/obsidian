@@ -5,6 +5,7 @@
 **Def 2.9:** Sei $A$ eine $m\times n$ Matrix. Der Spaltenraum von $A$ ist der Spann der Spalten.
 
 **Def 2.10:** Sei
+
 $$
 A=\begin{bmatrix}
 | & | &  & | \\
@@ -12,6 +13,7 @@ A=\begin{bmatrix}
 | & | &  & |
 \end{bmatrix}
 $$
+
 Spalte $\mathbf{v}_{j}$ ist unabhängig, falls $\mathbf{v}_{j}$ keine Linearkombination der Spalten $\mathbf{v}_{1},\mathbf{v}_{2},\dots,\mathbf{v}_{j-1}$ ist. Andernfalls ist $\mathbf{v}_{j}$ abhängig. Der Rang von $A, \: \text{rank}(A)$, ist die Anzahl unabhängiger Spalten.
 
 $\text{rank}(A)=n$: linear unabhängige Spalten
