@@ -14,7 +14,7 @@ A=\begin{bmatrix}
 \end{bmatrix}
 $$
 
-Spalte $\mathbf{v} _j$ ist unabhängig, falls $\mathbf{v} _j$ keine Linearkombination der Spalten $\mathbf{v} _{1},\mathbf{v} _{2},\dots,\mathbf{v} _ {j-1}$ ist. Andernfalls ist $\mathbf{v}_ {j}$ abhängig. Der Rang von $A, \: \text{rank}(A)$, ist die Anzahl unabhängiger Spalten.
+Spalte $\mathbf{v} _j$ ist unabhängig, falls $\mathbf{v} _j$ keine Linearkombination der Spalten $\mathbf{v} _ {1},\mathbf{v} _ {2},\dots,\mathbf{v} _ {j-1}$ ist. Andernfalls ist $\mathbf{v}_ {j}$ abhängig. Der Rang von $A, \: \text{rank}(A)$, ist die Anzahl unabhängiger Spalten.
 
 $\text{rank}(A)=n$: linear unabhängige Spalten
 
