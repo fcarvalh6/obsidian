@@ -71,22 +71,24 @@ $$
 
 
 **Def 1.3** 
+
 $$
 \text{Sei: }
 v = \begin{pmatrix}
-v_{1} \\
-v_{2} \\
+v _ {1} \\
+v _ {2} \\
 \vdots \\
-v_{m}
+v _ {m}
 \end{pmatrix} \in \mathbb{R}^{m}, \lambda \in \mathbb{R}.
 \text{Der Vektor } \lambda \mathbf{v} = \begin{pmatrix}
-\lambda \mathbf{v_{1}} \\
-\lambda \mathbf{v_{2}} \\
+\lambda \mathbf{v _ {1}} \\
+\lambda \mathbf{v _ {2}} \\
 \vdots \\
-\lambda \mathbf{v_{m}}
+\lambda \mathbf{v _ {m}}
 \end{pmatrix}
 \in \mathbb{R}^{m} \text{ ist ein skalares vielfaches von v}
 $$
+
 
 
 ### Linearkombination
@@ -114,7 +116,7 @@ v = \begin{pmatrix}
 \end{pmatrix}
 $$
 
-| $\lambda$ | $\mu$ | $\lambda$v                             | $\mu w$                               | $\lambda v + \mu w$                    |
+| $\lambda$ | $\mu$ | $\lambda v$                            | $\mu w$                               | $\lambda v + \mu w$                    |
 | --------- | ----- | -------------------------------------- | ------------------------------------- | -------------------------------------- |
 | $-3$      | $2$   | $\begin{pmatrix}-6 \\ -9\end{pmatrix}$ | $\begin{pmatrix}6 \\ -2\end{pmatrix}$ | $\begin{pmatrix}0 \\ -11\end{pmatrix}$ |
 
