@@ -39,10 +39,6 @@ Was wäre P(8)?
 - **Theorem:** $P(k) = 1 \implies P(2k) = 1$ (gilt für jedes K)
 	- **Beweisskizze:** %
 
-### Schokolade-Beispiel
-%
-
-&Vollständige Induktion
 ## Ungültige Beweise
 
 - **Theorem:** Wenn in einer Menge P von n Planeten ein Planet bewohnt ist, so sind es alle Planeten in P. 

@@ -33,7 +33,7 @@ a_{21} & a_{22} & \dots & a_{2n} \\
 a_{m1} & a_{m2} & \dots &  a_{mn}
 \end{bmatrix}
 $$
-%
+
 
 - Punktlose Notation: $A = [a_{i j}]_{i=1,j=1}^{m\;n}$
 - Spaltennotation (interpretiert die Spalten als Vektoren).
@@ -53,6 +53,7 @@ $$
 10 & 12
 \end{bmatrix}
 $$
+
 $$
 2\begin{bmatrix}
 1 & 2 \\
@@ -67,6 +68,7 @@ $$
 ### Matrix-Vektor-Multiplikation
 
 **Kombinationen**
+
 $$
 7\begin{pmatrix}
 1 \\
@@ -113,7 +115,6 @@ ist das Produkt von $A$ und $\mathbf{x}$.
 2. Die Spalten von A sind linear unabhängig $\iff \mathbf{x}=0$ ist der einzige Vektor mit $A\mathbf{x}=0$
 
 Definition von $A\mathbf{x}$ in Zeilennotation:
-%
 
 ### Spaltenraum und Rang
 
@@ -121,4 +122,4 @@ Definition von $A\mathbf{x}$ in Zeilennotation:
 $$
 C(A):= \{A\mathbf{x}:\mathbf{x}\in \mathbb{R}^{n}\} \subseteq \mathbb{R}^{m}
 $$
-%
+

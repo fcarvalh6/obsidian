@@ -14,7 +14,7 @@ Zwei Möglichkeiten
 	- REPL
 		- Read-Evaluate-Print Loop
 
-```java title:"Erstes Java-Programm"
+```java title:"ErstesJavaProgramm"
 	public class HelloWorld {  
     public static void main(String[] args) {  
         System.out.println("Hello World!");  
@@ -26,11 +26,3 @@ Zwei Möglichkeiten
 
 - Hält die Syntaxregeln von Java-Programmen fest
 - Beispiel: Bezeichner (Namen) in Programmen
-
-```
-<identifier> 
-```
-
-## Aufreihung von Anweisungen
-
-%

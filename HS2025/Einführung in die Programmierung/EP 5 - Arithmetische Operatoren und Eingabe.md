@@ -13,3 +13,4 @@
 	- Implizit: int/long und double ergibt double
 	- Explizit: (Typ) Ausdruck z.B. (double) 19 / 5; (int) (2.1e3 / 1.3e4 * 100)
 
+

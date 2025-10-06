@@ -7,7 +7,8 @@ Vorlesungen
 [[LA 2 - Lineare Kombinationen]]
 [[LA 3 - Lineare Abhängigkeit]]
 [[LA 4 - Matrizen]]
-[[LA 5 -]]
+[[LA 5 - Spaltenraum, Nullraum, Lineare Transformationen]]
+[[LA 6 - Lineare Transformation]]
 
 Übungsstunden
 [[LAU 1 - Lineare Kombinationen]]

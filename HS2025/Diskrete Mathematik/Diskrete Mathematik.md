@@ -7,4 +7,4 @@
 
 **Übungsstunden**
 [[DMU 1 - Beweise]]
-[[DMU 2 -]]
+[[DMU 2 - Aussage vs. Formel, Tautologien]]

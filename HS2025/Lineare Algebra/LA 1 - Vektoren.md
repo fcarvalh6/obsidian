@@ -153,4 +153,9 @@ $$
 3\mu = u_{1} - 2\lambda = u_{1}-\frac{2u_{1}+6u_{2}}{11} = \frac{9u_{1}-6u_{2}}{11} \to \mu = \frac{3u_{1}-2u_{2}}{11}
 $$
 
-*& see more of affine, conic and convex combinations*
+### Affine, konisch und konvex Kombinationen
+
+**Def 1.7:** eine lineare Kombination heisst
+- (i) affine, falls $\lambda_{1}+\lambda_{2}+\dots+\lambda _n = 1$
+- (ii) konisch, falls $\lambda_{j}\geq 0$ für $j=1,2,\dots,n$
+- (iii) konvex, falls sie sowohl affine als auch konisch ist

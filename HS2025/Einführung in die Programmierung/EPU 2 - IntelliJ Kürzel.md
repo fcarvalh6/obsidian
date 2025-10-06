@@ -2,4 +2,4 @@
 
 *ctrl+alt+L* = automatische Formatierung
 *sout* = System.out.println();
-*ctrl* = Vorschläge
+*ctrl+space* = Vorschläge
