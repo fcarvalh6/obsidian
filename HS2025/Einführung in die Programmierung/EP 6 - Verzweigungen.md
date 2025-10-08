@@ -61,14 +61,29 @@ y = x + y + 0.5;
 ## Verzweigungen
 
 ### If-Anweisung
-%
+
+Führe eine Gruppe A von Anweisungen nur dann aus, wenn eine Bedingung `test` wahr ist.
 
 ### If-else-Anweisung
-%
+
+Führe entweder eine Gruppe A von Anweisungen oder eine Gruppe B aus, abhängig von Bedingung `test`. 
 
 ### Vergleiche
-%
+
+| ==  | gleich         |
+| --- | -------------- |
+| !=  | ungleich       |
+| <   | kleiner als    |
+| \>  | grösser als    |
+| <=  | kleiner gleich |
+| \>= | grösser gleich |
+
 
 ### Logische Operatoren
-%
+
+| &&   | und   |
+| ---- | ----- |
+| \|\| | oder  |
+| !    | nicht |
+
 

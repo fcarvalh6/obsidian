@@ -101,16 +101,4 @@ T\left( \sum_{j=1}^l\lambda_{j}\mathbf{x}_{j} \right) = &  T\left( \sum_{j=1}^{l
 \end{align}
 $$
 
-## Die Matrix einer linearen Transformation
 
-**Theorem 2.26:** Sei $T:\mathbb{R}^{n}\to\mathbb{R}^{m}$ eine lineare Transformation. Es gibt eine eindeutige $m\times n$ Matrix $A$ sodass $T=T_{A}$.
-
-Beweis: für $T=T_{A}$ brauchen wir insbesondere $T(e_{j}) = T_{A}(e_{j})=Ae_{j}\text{ (Spalte j von A)}$. Die einzige Kandidatin für $A$ ist
-
-$$
-A=\begin{bmatrix}
-| & | &  & | \\
-T(e_{1}) & T(e_{2}) & \dots & T(e_{n}) \\
-| & | &  & |
-\end{bmatrix}
-$$

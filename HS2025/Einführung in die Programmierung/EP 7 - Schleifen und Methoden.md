@@ -1,7 +1,5 @@
 #HS2025 #EP 
 
-% - 02.10.2025
-
 ```java title:ForLoop
 for (int i = 1; i <= 5; i = i + 1) {
 	System.out.println(i); // 1 2 3 4 5

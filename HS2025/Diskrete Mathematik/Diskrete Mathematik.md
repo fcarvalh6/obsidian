@@ -4,7 +4,10 @@
 [[DM 3 - Aussagenlogik II]]
 [[DM 4 - Prädikatenlogik]]
 [[DM 5 - Beweisstrategien]]
+[[DM 6 - Mengen]]
+[[DM 7 - Mengen II]]
 
 **Übungsstunden**
 [[DMU 1 - Beweise]]
 [[DMU 2 - Aussage vs. Formel, Tautologien]]
+[[DMU 3 - Beweisstrategien]]

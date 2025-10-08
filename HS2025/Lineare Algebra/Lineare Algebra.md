@@ -9,6 +9,7 @@ Vorlesungen
 [[LA 4 - Matrizen]]
 [[LA 5 - Spaltenraum, Nullraum, Lineare Transformationen]]
 [[LA 6 - Lineare Transformation]]
+[[LA 7 - Matrixmultiplikation]]
 
 Übungsstunden
 [[LAU 1 - Lineare Kombinationen]]
