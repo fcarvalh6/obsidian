@@ -5,6 +5,7 @@ https://moodle-app2.let.ethz.ch/course/view.php?id=26169
 [[AD 1 - Verbesserte Algorithmen]]
 [[AD 2 - O-Notation]]
 [[AD 3 - Maximum Subarray Sum]]
+[[AD 4 - Suchen und Sortieren]]
 
 **Übungsstunden**
 [[ADU 1 - Einführung]]
