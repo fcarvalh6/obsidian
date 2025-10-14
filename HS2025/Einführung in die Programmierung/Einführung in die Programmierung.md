@@ -10,7 +10,9 @@ Vorlesungen
 [[EP 5 - Arithmetische Operatoren und Eingabe]]
 [[EP 6 - Verzweigungen]]
 [[EP 7 - Schleifen und Methoden]]
-[[EP 8 - ]]
+[[EP 8 - Namensräume, Inkrement und Dekrement]]
+[[EP 9 - Sequenzen]]
+[[EP 10 - Arrays und Rekursion]]
 
 Übungsstunden
 [[EPU 1 - Links und EBNT-Wiederholung]]

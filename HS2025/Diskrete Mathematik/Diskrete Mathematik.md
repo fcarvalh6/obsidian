@@ -6,8 +6,10 @@
 [[DM 5 - Beweisstrategien]]
 [[DM 6 - Mengen]]
 [[DM 7 - Mengen II]]
+[[DM 8 - Relationen]]
 
 **Übungsstunden**
 [[DMU 1 - Beweise]]
 [[DMU 2 - Aussage vs. Formel, Tautologien]]
 [[DMU 3 - Beweisstrategien]]
+[[DMU 4 -]]

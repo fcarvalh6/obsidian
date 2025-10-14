@@ -163,6 +163,9 @@ Merge(A,l,m,r)
 			j++
 			k++
 	end while
+	
+	
+	//need to complete
 ```
 
 $O(n\log n)$ Vergleiche, $O(n\log n)$ Bewegungen, aber $O(n)$ Extraplatz 
