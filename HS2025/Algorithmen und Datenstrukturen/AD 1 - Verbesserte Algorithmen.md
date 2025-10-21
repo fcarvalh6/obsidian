@@ -75,12 +75,12 @@ $\geq 1+x(n+1)$
 - Idee: finde Lösung für n basierend auf einer Lösung für n-1 Personen (induktiv)
 - Schritt 0: schicke eine Person raus (z.B. $P_{n}$)
 - 1: finde Star $P_{s}$ unter $P_{1},\dots,P_{n-1}$ 
-- 1-Ja: $P_{s}$ ist Star (gehe zu Schritt 2)
+	- 1-Ja: $P_{s}$ ist Star (gehe zu Schritt 2)
 - 2: Ist $P_{S}$ auch Star unter $P_{1},\dots,P_{n}$ ($P_{s}$ und $P_{s}$ gegenseitig abfragen)
-- 2-Nein: $Ps$ ist kein Star (gehe zu Schritt 3)
+	- 2-Nein: $Ps$ ist kein Star (gehe zu Schritt 3)
 - 3: Ist $Pn$ Star unter Allen?
-- 1-Nein: $P_{S}$ ist kein Star (gehe zu Schritt 3)
-- 2-Ja: Fertig.
+	- 1-Nein: $P_{S}$ ist kein Star (gehe zu Schritt 3)
+	- 2-Ja: Fertig.
 
 **F(n) = Anzahl Fragen**
 - Schritt 0: 0

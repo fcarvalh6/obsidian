@@ -92,5 +92,15 @@ public static int factorial(int n){
 ```
 
 ```java title:Count
-
+public static int count(char c, String s){
+	if(s.length() == 0){//Basisfall
+		return 0;
+	} else if (s.length() == 1) {
+		return s.charAt(0) == c ? 1 : 0;
+	} else {
+		return count(c, s.substring(0, s.length()/2))
+					+ count(c, s.substring(s.length()/2));
+	}
+}
 ```
+

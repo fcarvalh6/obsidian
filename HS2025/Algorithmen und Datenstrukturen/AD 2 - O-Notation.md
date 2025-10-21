@@ -42,7 +42,7 @@ $= 3n -4$
 $$
 n^{2}-n \to n^{2} \qquad 7n+\log n \to n
 $$
-### Asymptotische Notation 
+### Asymptotische Notation
 
 $N=\{ n_{0},n_{0} +1,\dots\}$ Menge möglicher Eingabegrössen
 
