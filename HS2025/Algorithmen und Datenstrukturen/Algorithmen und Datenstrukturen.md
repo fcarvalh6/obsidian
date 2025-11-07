@@ -8,6 +8,9 @@ https://moodle-app2.let.ethz.ch/course/view.php?id=26169
 [[AD 4 - Suchen und Sortieren]]
 [[AD 5 - Sorting II und Datenstrukturen]]
 [[AD 6 - Suchbäume]]
+[[AD 7 - Dynamische Programmierung]]
+[[AD 8 - Dynamische Programmierung II]]
+[[AD 9 - Graphentheorie]]
 
 **Übungsstunden**
 [[ADU 1 - Einführung]]

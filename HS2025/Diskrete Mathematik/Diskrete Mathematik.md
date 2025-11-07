@@ -9,9 +9,18 @@
 [[DM 8 - Relationen]]
 [[DM 9 - Äquivalenz- und Ordnungsrelationen]]
 [[DM 10 - Direkte Produkt, Funktionen, Mächtigkeit]]
+[[DM 11 - Mächtigkeit II]]
+[[DM 12 - Zahlentheorie]] 
+[[DM 13 - Zahlentheorie II]]
+[[DM 14 - Gruppen]]
+[[DM 15 -]]
+
 
 **Übungsstunden**
 [[DMU 1 - Beweise]]
 [[DMU 2 - Aussage vs. Formel, Tautologien]]
 [[DMU 3 - Beweisstrategien]]
 [[DMU 4 - Pigeonhole und Mengen]]
+[[DMU 5 - Darstellungen von Relationen und Beweise]]
+[[DMU 6 - Mächtigkeit]]
+[[DMU 7 -]]

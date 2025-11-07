@@ -13,6 +13,12 @@ Vorlesungen
 [[EP 8 - Namensräume, Inkrement und Dekrement]]
 [[EP 9 - Sequenzen]]
 [[EP 10 - Arrays und Rekursion]]
+[[EP 11 - Logisches Schliessen]]
+[[EP 12 - ]]
+[[EP 13 -]] 
+[[EP 14 -]]
+[[EP 15 - Klassen und Objekte II]]
+[[EP 16 -]]
 
 Übungsstunden
 [[EPU 1 - Links und EBNT-Wiederholung]]

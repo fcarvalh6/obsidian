@@ -10,6 +10,14 @@ Vorlesungen
 [[LA 5 - Spaltenraum, Nullraum, Lineare Transformationen]]
 [[LA 6 - Lineare Transformation]]
 [[LA 7 - Matrixmultiplikation]]
+[[LA 8 - Matrixmultiplikation II]]
+[[LA 9 - Inverse Matrizen]]
+[[LA 10 - Gauss-Elimination]]
+[[LA 11 - Gauss-Elimination II]]
+[[LA 12 - Gauss-Jordan-Elimination]]
+[[LA 13 - Vektorräume]]
+[[LA 14 - Vektorräume II]]
+[[LA 15 - Orthogonalität von Vektoren]]
 
 Übungsstunden
 [[LAU 1 - Lineare Kombinationen]]

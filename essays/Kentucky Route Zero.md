@@ -21,3 +21,39 @@ It's like being in the presence of art. Art, which is at the same time a deep we
 
 ## Act One
 
+The first act, the first scene, sun beginning to set, some place of transition, a gas station. A truck. Your truck. You work for an antique shop. The attendant is called Joseph, he asks what your dog is called.  *An old hound in a straw hat. Both have seen better days.* I said her name was Blue. 
+
+When you come out the basement to flip the breaker as instructed, it's already dark, crickets sing over synthesizers and the sound of rumbling trucks. You go to the computer and input the password, it's supposed to be like some short poem. As expected, the options don't really matter. 
+
+*I talk and listen to him talking*
+*Nobody saw the accident*
+*It will only get later*
+
+Password accepted. Maybe the options did matter. Márquez residence. 100 Macondo lane. A reference to "One Hundred Years of Solitude", that's where you have to go. I forgot to mention, you're doing all of this because you have to make a delivery and, for that, get to the **zero**. 
+
+The Márquez farmhouse, Weaver stands in the dark, you turn on the lights. Her parents stopped paying the bank, everyone left, but she stayed. The gas station attendant handed you a TV to give to her, you set it up. Everything goes dark, the camera zooms in as the boards of the house disappear and a barn is revealed in the distance. 
+
+*That's not how it's supposed to look. You've made a mistake setting it up. Is it a foreign object to you? Which of your parents was it who wouldn't allow you to watch television?*
+
+*Ma thought she heard ghosts in the static.*
+
+*I know about that. She was ill, wasn't she? Mentally, I mean, kind of distant, fearful?*
+
+*No, things just had to be a certain way.*
+
+*You have it all backwards. I'm not surprised; are you? Have you been paying attention? I don't think you have. It's time to start paying attention now, Conway. Look closely at the television.*
+
+Your mind goes blank, the fuzziness of the CRT Television feels like it's twisting inside you. You see the barn again, in the distance, Weaver says something about a wrong connection, about her cousin that fixes TVs, about how you can get to the **Zero**. 
+
+The scene with the barn feels inconclusive. The camera zooms out, the boards cover up the view of the barn, the light comes back on, and Weaver is not there anymore. She gave you directions, you should follow them. 
+
+You're playing as Shannon now, Shannon Weaver, inside Elkhorn Mine. You spot a stranger entering, he says he's looking for the onramp to the **Zero**. You're the cousin who fixes televisions, and the stranger is Conway. 
+
+*I talked to Weaver this evening, too. Or anyway, she talked to me; it's hard to tell if she's listening sometimes.* 
+
+A final scene. Shannon walks by herself down a dark tunnel. There's a pile of helmets in the end, all abandoned. Everyone's parents worked at the mine. It's hard to breathe. Light cuts, you're out. Something important to mention: Conway hurt his leg pretty bad when the roof caved in on him, he'll be limping for a while, even if he says it's fine. 
+
+Weaver never lies, so you're back at the farmhouse, Shannon came with you. It's your white whale again, the barn, and Shannon tinkers with the tubes. One second and the barn is not there anymore, just a tunnel and a sign to the **Zero**. The static distorts into a low humming, we watch the truck disappear into the darkness. End of Act I. 
+
+## Limits and Demonstrations
+
