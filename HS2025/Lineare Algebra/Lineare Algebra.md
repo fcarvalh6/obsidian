@@ -18,6 +18,9 @@ Vorlesungen
 [[LA 13 - Vektorräume]]
 [[LA 14 - Vektorräume II]]
 [[LA 15 - Orthogonalität von Vektoren]]
+[[LA 16 - Projektionen]]
+[[LA 17 -  Projektionen II]]
+[[LA 18 -]]
 
 Übungsstunden
 [[LAU 1 - Lineare Kombinationen]]

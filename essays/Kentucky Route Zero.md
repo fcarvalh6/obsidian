@@ -57,3 +57,34 @@ Weaver never lies, so you're back at the farmhouse, Shannon came with you. It's 
 
 ## Limits and Demonstrations
 
+We see an art exhibition, sheer white walls surround us, this is a retrospective on the art of Lula Chamberlain. 
+
+*Spinning coin, suspended, correcting for angular motion. 1976. Found materials.* A massive television is standing on one of its corners, defying gravity, bent over. It shows a picture of a coin casting a shadow, the background is filled with noises resembling gong hits and whirring machinery. 
+
+*Vertex Texture Fetch (Tree, Television and suspended cathode ray tube). 1968. Found materials.* A domestic scene, the lamp overhead swings from right to left. 
+
+*Visage. 1984. Unknown media.* A tape recorder surrounded by constantly whirling paper, morphing into a shape in the air, something like the trunk of a tree. 
+
+etc. etc.
+
+Lula, Donald and Joseph. Trail. A massive hole in the ground. Lula and Joseph. Kind gesture, Joseph stealing the tumbler. Donald willing to die for our research. Joseph wants to leave, Lula takes her wagon and goes to the zero. Lost forever, only the machine can recognize your voice. 
+
+## Act Two
+
+Lula at the office, application to architecture fellowship rejected. 
+
+Bureau of reclaimed spaces: hospital - auto dealership; distillery - graveyard; basketball court - kennel. BRS in a reclaimed cathedral. A floor full of bears. Lula used to live in dogwood drive (surface road). Ohhh Joseph the gas station guy is in love with Lula. He's blind, he still loves here, so he sent us here?
+
+Describe how it is to drive along the zero. Forgotten places?
+
+A church without a congregation moved to a self-storage. A preacher is played to no one on a tape recorder, the congregation has no more members. Brandon is the janitor, he runs the slide-show, plays the tapes, doesn't get paid for it but takes it pretty seriously. There has to be a more serious word to describe it than hobby. 
+
+Conway remembers the mine, his leg getting crushed, blacked out. We have to see the doctor now. 
+
+Back on the surface, going to see the doctor. Neighborhood demolished, large museum now. MUSEUM OF DWELLINGS (this is very telling).
+
+Houses taken and transplanted to inside the cold museum, presented. Residents still here. River house. Dumpster. Trailer. FEMA house. Chicken coop. Our barn. Bird cage. Going up the elevator to the roof, raining. Giant eagle flying around. Suspicious. We meet Ezra. He and his brother Julian carry the houses, take them to the forest every night to sleep and bring them back before the museum opens. 
+
+A FOREST. There's a sense of community here, someone is playing the banjo. Last delivery before Lysette closes shop, Shannon was friends with Weaver kind of, misses her. Conway and Ira. Ezra went to fly with Julian, came back parents were gone, left? 
+
+Inside the doctors house. Doc is owned by a pharma company, Neurypnol TM.  Fades to black. 

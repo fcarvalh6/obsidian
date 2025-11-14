@@ -13,8 +13,9 @@
 [[DM 12 - Zahlentheorie]] 
 [[DM 13 - Zahlentheorie II]]
 [[DM 14 - Gruppen]]
-[[DM 15 -]]
-
+[[DM 15 - Gruppen II]]
+[[DM 16 - Gruppen III]]
+[[DM 17 - Ringe]]
 
 **Übungsstunden**
 [[DMU 1 - Beweise]]
@@ -23,4 +24,4 @@
 [[DMU 4 - Pigeonhole und Mengen]]
 [[DMU 5 - Darstellungen von Relationen und Beweise]]
 [[DMU 6 - Mächtigkeit]]
-[[DMU 7 -]]
+[[DMU 7 - Zahlentheorie]]
