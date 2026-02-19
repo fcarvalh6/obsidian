@@ -20,9 +20,9 @@
 - **Obs:** note that low can always be computed considering only the current vertex, since it is the minimum between vertices reached by all rest-edges and DFS-edges (one only needs to consider the first node in the DFS-path since the smallest value will propagate backwards). 
 - Knowing this, we have that $v$ is a cut vertex if and only if:
 	- $v$ is the root and has degree at least two, or
-	- $v$ is not the root and there is $w \in V$ with $\{ v,w \}\in E$ and $\operatorname{low}[w]\ge \operatorname{dfs[v]}$.
+	- $v$ is not the root and there is $w \in V$ with $\{ v,w \}\in E$ and $\text{low}[w]\ge \text{dfs[v]}$.
 - For any graph stored in an adjacency list, all cut vertices can be found in $O(|E|)$, the same holds for cut edges.
-- An edge $e=\{ v,w \}$ is a cut edge if and only if $\operatorname{low[w]}>\operatorname{dfs}[v]$. 
+- An edge $e=\{ v,w \}$ is a cut edge if and only if $\text{low[w]}>\text{dfs}[v]$. 
 
 ### Block Decomposition
 - We can separate connected graphs into **blocks**. These blocks are analogous to partitions of an equivalence relationship. The "intersection" between any two blocks is a cut vertex. 
