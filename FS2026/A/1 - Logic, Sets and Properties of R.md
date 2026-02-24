@@ -51,7 +51,9 @@
 
 ### Young's Inequality
 For every $\varepsilon>0$ and all $x,y \in \mathbb{R}$ it holds that 
+
 $$
 2|xy|\le \varepsilon x^{2} + \frac{1}{\varepsilon}y^{2}
 $$
+
 This provides an upper bound for a product, its applications will be seen later. 
