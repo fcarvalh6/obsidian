@@ -39,7 +39,6 @@
 - Maxima and minima are unique (if they exist)
 - Every subset with a lower (upper) bound has a unique infimum (maximum) 
 
-
 ### Real Numbers ($\mathbb{R}$) 
 - $\mathbb{R}$ can be rigorously axiomatically defined 
 	*see page 12 in the script*
