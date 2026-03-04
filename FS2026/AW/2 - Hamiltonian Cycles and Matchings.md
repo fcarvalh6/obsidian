@@ -34,4 +34,4 @@ $$
 - An **augmenting** path for a matching $M$ starts and ends in nodes not covered by $M$ and takes alternating edges (one not in $M$, one in $M$, etc.). We can increase $M$ by taking this path and simply swapping the edges (ones not in $M$ are added to $M$ and vice versa). 
 - Berge: every matching which isn't cardinality maximal has an augmenting path.
 - We can thus use augmenting paths to start with any matching and increase it to a cardinality maximal. 
-- Marriage theorem: a bipartite graph $G = (A\uplus B, E)$has a matching of size $|A|$ if and only if, for every subset $X$ of vertices of $A$, this subset has more neighbors than members. 
+- Marriage theorem: a bipartite graph $G = (A\uplus B, E)$ has a matching of size $|A|$ if and only if, for every subset $X$ of vertices of $A$, this subset has more neighbors than members. 
