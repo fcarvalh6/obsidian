@@ -1,0 +1,25 @@
+#FS2026 #AW 
+
+- Frobenius: for every $k$ it holds that every $k$-regular bipartite graph has a perfect matching.
+- In $2^{k}$-regular bipartite graphs a perfect matching can be found in time $O(|E|)$ (finding $k$ eulerian cycles. Also valid for $k$-regular ones (different method).
+- In bipartite graphs a perfect matching can be found in $O(|V||E|)$ (using augmenting paths).
+- **Algorithms:**
+	- For bipartite graphs:
+		- $O(|V|^{1/2}\cdot |E|)$ Hopcroft-Karp (unweighted)
+		- $O(|E|^{1+o(1)})$ (with polynomial weights)
+	- For general graphs (with polynomial weights):
+		- $O(|V|^{1/2}\cdot |E|)$ Micali-Vazirani (unweighted) / Gabow-Tarjan
+		- $O(|V|^{2.373})$ with matrix multiplication, Mucha, Sankowski
+- If $M$ is not a cardinality-maximal matching, then it must have an augmenting path. 
+- How then do we find augmenting paths? We will only see in bipartite graphs using BFS, time $O(|V|+|E|)$. 
+- Augmenting paths in bipartite graphs:
+	- Mark every uncovered node in $A$ as visited
+	- If $i$ is odd (that is, if we are in $B$) next layer is the unvisited neighbors from this layer which can be reached by edges in $E\setminus M$ 
+	- If $i$ is even (that is, if we are in $A$) next layer is the unvisited neighbors from this layer which can be reached by edges in $M$
+	- If layer $i$ has an uncovered node $v$, return path to $v$ through backtracking?
+	- Why does this work?
+- Hopcroft-Karp does the same thing, but it makes the algorithm above return a set of disjunct augmenting paths so it runs in $O(|V|^{1/2}(|V+|E||))$
+- 3/2 metric TSP approximation:
+	- find MST
+	- find minimal matching for all nodes with uneven degree
+	- eulerian cycle with shortcuts
