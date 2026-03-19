@@ -40,10 +40,10 @@ A series is **conditionally convergent** if it converges and is not absolutely c
 
 The **Cauchy-Criterium** and **Triangle Inequality** can be extended to series. 
 
-**Theorem (Root-Criterium):** let $(a_{n})_{n\in \mathbb{N}}$ a sequence of real numbers and $\rho=\limsup_{ n \to \infty }(|a_{n}|)^{1/n}$, then:
+**Theorem (Root-Criterium):** let $(a _ {n}) _ {n\in \mathbb{N}}$ a sequence of real numbers and $\rho=\limsup _ { n \to \infty }(|a _ {n}|)^{1/n}$, then:
 - if $\rho < 1$, the series given by summing $a_{n}$ converges
 - if $\rho > 1$, the series given by summing $a_{n}$ does not converge
 
-**Theorem (Quotient-Criterium):** let $(a_{n})_{n\in \mathbb{N}}$ a sequence of real numbers with $a_{n}\not=0$ and $\rho=\lim_{ n \to \infty }\frac{|a _ {n+1}|}{|a_{n}|}$, then:
+**Theorem (Quotient-Criterium):** let $(a _ {n}) _ {n\in \mathbb{N}}$ a sequence of real numbers with $a_{n}\not=0$ and $\rho=\lim _ { n \to \infty }\frac{|a _ {n+1}|}{|a _ {n}|}$, then:
 - if $\rho < 1$, the series given by summing $a_{n}$ is absolutely convergent
 - if $\rho > 1$, the series given by summing $a_{n}$ does not converge
