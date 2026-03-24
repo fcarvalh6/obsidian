@@ -28,3 +28,4 @@
 $$
 S_{p}\le \frac{1}{f+\frac{1-f}{P}}
 $$
+TODO: add Gustafson's law
